@@ -84,6 +84,48 @@ Think of it as concentric circles:
 
 These don't all need to work at once. Right now, the site only needs to help close 1-2 consulting clients to pay for itself many times over. Independent revenue builds naturally as content compounds.
 
+### Additional Revenue Streams (Ranked by Ease of Implementation)
+
+**1. Vertical Pages as Outbound Sales Weapons (start immediately — no new infrastructure)**
+
+Flip the model. Instead of waiting for businesses to come inbound:
+1. Publish a vertical page like "Best HVAC Companies Serving Draper"
+2. List 5-7 real local businesses with honest writeups
+3. Email each one: "You're featured on a page ranking for 'HVAC Draper Utah' that got X impressions last month. Here's the link."
+
+You're not cold calling — you're telling them you already did something for them. From there:
+- Some are just grateful (brand goodwill, future relationship)
+- Some ask about premium placement (featured listing revenue)
+- Some ask "can you do this for my own website?" (consulting lead)
+
+The vertical page IS the outbound pitch. Zero new work — just emails after you publish.
+
+**2. Corporate Relocation Packages (requires outreach, no new content)**
+
+Silicon Slopes companies (Qualtrics, Pluralsight, Domo, Vivint, dozens of startups) relocate employees constantly. Their HR/people ops teams need exactly what this site builds — honest neighborhood guides for new hires.
+
+The play:
+- Package existing guides into a branded "Wasatch Front Relocation Guide" (PDF or private landing page)
+- Reach out to HR/relocation coordinators at 20-30 local tech companies
+- Offer free initially to build the relationship, then charge $500–$2,000/year for co-branded versions with their logo or custom versions filtered to their office locations
+- Include a "presented by" sponsor slot — a mortgage lender or real estate brokerage pays to be the recommended partner in every relocation package
+
+One corporate deal at $1,500/year is worth more than months of display ad revenue. And every relocated employee becomes a resident who searches for local services — feeding the lead gen pages.
+
+**3. Productized Local SEO Snapshots (requires a template, then repeatable)**
+
+Turn ranking data and competitive intelligence into a sellable one-page product. A "Local SEO Snapshot" for a specific business category in a specific area:
+- Who's ranking for "HVAC Draper Utah" right now (your page + their competitors)
+- How many monthly searches those keywords get
+- What their Google Business Profile is missing vs. top competitors
+- 3 specific things they should fix
+
+Sell for $200–$500 one-time. Takes 30-45 minutes to produce once the template exists. It's not a full audit — it's a snapshot that demonstrates expertise and creates urgency.
+
+The pipeline: Snapshot buyer → sees clear expertise → asks about ongoing help → consulting retainer. The snapshot pays for your time AND fills the consulting pipeline.
+
+**The thread connecting all three:** None require new content, features, or infrastructure. They extract more value from what's already being built. Vertical pages become sales tools (#1). Neighborhood guides become B2B products (#2). Ranking data becomes a standalone offering (#3).
+
 ---
 
 ## Content Expansion Ideas
