@@ -160,6 +160,40 @@ These don't all need to work at once. Right now, the site only needs to help clo
 
 ---
 
+## Newsletter Strategy
+
+### Who Signs Up
+People actively researching a move to the Wasatch Front. They found the site by Googling "living in Draper Utah" or "best neighborhoods in Salt Lake County." They're in research mode — weeks or months out from a move — and want to keep learning without searching every time.
+
+### What They Get
+A short monthly or biweekly email:
+- New neighborhood guides ("We just published our Cottonwood Heights guide")
+- Housing market snapshots ("Draper median price dropped 3% this quarter")
+- Seasonal local content ("5 trails to hit before the snow melts")
+- "Best of" roundups ("Where to eat in the South Valley this spring")
+
+The tone matches the site — a tip from a local friend, not a marketing email.
+
+### Why They Stay Subscribed
+After someone moves, they become a resident — and residents want to know about local restaurants, services, events, and neighborhood news. The audience naturally converts from "researching a move" to "living here and wanting recommendations." That second group is more valuable because they're the ones who need an HVAC company, a dentist, a barber.
+
+### Why It Matters for the Business
+- **Owned asset.** Google rankings can fluctuate — an email list can't be taken away.
+- **Sponsorship revenue.** A local real estate agent or mortgage lender would pay $200–$500 to sponsor a single send to 1,000+ engaged local readers (Rung 2 revenue).
+- **Traffic driver.** Direct line to promote new content, which drives return visits and boosts rankings.
+
+### Signup Approach
+Simple, not aggressive. No popups. A section on the homepage and at the bottom of every guide:
+
+> "Get the local perspective. New neighborhood guides, market updates, and honest recommendations — straight to your inbox."
+
+One email field, one button.
+
+### Tools
+Start free — Buttondown, Mailchimp free tier, or ConvertKit free plan. Collect emails and send a simple email once or twice a month. No automation or drip sequences needed yet.
+
+---
+
 ## Current Priority Focus
 
 The independent money follows the traffic, and the traffic follows the content. Right now:
