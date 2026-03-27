@@ -128,6 +128,59 @@ The pipeline: Snapshot buyer → sees clear expertise → asks about ongoing hel
 
 ---
 
+## Vertical Niche Strategy
+
+### Niche Ranking by Revenue Potential (Wasatch Front-Specific)
+
+| Rank | Niche | Why It Works Here | Per-Lead Value | Competition |
+|---|---|---|---|---|
+| 1 | **Medical / Aesthetic** | Utah's outdoor injury rate + top per-capita cosmetic procedure rate = massive demand. Patients research heavily before choosing providers. | $200–$500/lead | Low (providers have terrible websites) |
+| 2 | **Real Estate** | Huge market driven by in-migration. Better monetized through consulting retainers and featured placements than referral fees. | Retainer value | High for search (Zillow/Redfin) |
+| 3 | **Home Services** | Reliable year-round volume. Easy conversion path (quote forms). Solid but lower per-lead value. | $25–$100/lead | Medium |
+| 4 | **Outdoor Recreation** | High traffic potential from Utah's trail/ski culture. Lower direct revenue but strong for affiliate and brand authority. | Affiliate (5-8%) | Medium |
+| 5 | **Dining** | Highest search volume, lowest per-visit value. Builds audience and local credibility more than revenue. | Low | High |
+
+### Medical / Aesthetic: The Highest-Value Niche
+
+This may be the single best starting vertical for lead gen revenue, and it's uniquely strong in the Wasatch Front market.
+
+**Orthopedic surgeons:**
+Utah has one of the highest rates of outdoor recreation injuries in the country — ACL tears from skiing, mountain bike crashes, rotator cuff injuries from climbing. "Best orthopedic surgeon in Salt Lake City" is a $20,000–$50,000 procedure decision. One lead is worth hundreds of home service leads.
+
+**Plastic surgery / cosmetic:**
+Utah consistently ranks among the top states per capita for cosmetic procedures — breast augmentation, rhinoplasty, mommy makeovers. These are $5,000–$15,000 decisions and patients research heavily before choosing a provider. Well-documented cultural demand along the Wasatch Front.
+
+**Med spas / injectables:**
+Botox, lip filler, facials. Lower ticket but extremely high search volume and repeat customers. "Best med spa in Draper" has real commercial intent behind it.
+
+**Dental (cosmetic especially):**
+Veneers, Invisalign, implants. Utah's emphasis on appearance drives this market. $3,000–$30,000 procedures.
+
+**Why medical/aesthetic may be better than home services as a lead gen niche:**
+1. **Highest revenue per lead.** A plastic surgeon pays $200–$500 for a qualified lead. An orthopedic practice even more. That's 5-10x what a plumber pays.
+2. **Patients research extensively online.** Nobody impulse-books a surgeon. They read comparisons, reviews, and guides — exactly what this site produces.
+3. **Aligns with the premium consulting niche.** Medical specialists are already a target client vertical. Every page is simultaneously a lead gen asset and a consulting sales pitch.
+4. **Less obvious competition.** Plenty of "best plumber" content exists. Far fewer people build editorially credible "best orthopedic surgeon in the Salt Lake Valley" content.
+5. **Unique to this market.** Utah's outdoor culture + cosmetic culture creates a medical services demand profile genuinely different from other metros. Real editorial angle, not manufactured.
+
+### How Each Niche Connects to the Site Architecture
+
+**Neighborhood guides (pillar pages)** attract relocators → relocators need everything at once (doctor, dentist, med spa, contractor, restaurants) → **vertical sub-pages** capture that commercial intent across every niche.
+
+The neighborhood guide is the top of the funnel. The verticals are the revenue layer. Every niche feeds off the same authority and geographic relevance.
+
+### Real Estate: Better as Clients Than as Referral Revenue
+
+Real estate referral fees ($500–$3,000 per closed sale) sound attractive but are hard to execute:
+- 3-6 month conversion cycle with many drop-off points
+- Attribution is nearly impossible without signed referral agreements (friction that kills conversions)
+- Requires significant relocation traffic before the numbers work
+- Competing for "homes for sale in [city]" against Zillow, Redfin, and Realtor.com is a losing battle
+
+The better play: real estate agents become consulting clients and pay for featured placement in neighborhood guides. They're buying exposure to the exact relocator audience they want, and you're earning predictable retainer revenue instead of waiting on maybe-commission from closed sales.
+
+---
+
 ## Content Expansion Ideas
 
 ### New Area Guides
