@@ -34,21 +34,55 @@ Last updated: 2026-03-27
 
 ---
 
-## Revenue Streams
+## How This Site Makes Money
 
-### Active Now
-- Consulting retainers (clients featured in guides)
+The site serves two distinct business cases that build on each other over time.
 
-### Near-Term Opportunities
-- Sponsored content placements within area guides
-- Featured business listings in vertical sub-pages
-- Newsletter sponsorships
+### Business Case 1: Consulting Sales Tool (Near-Term)
 
-### Long-Term Opportunities
-- Display advertising (once traffic supports it)
-- Premium "featured" tier for local businesses
-- Paid local business directory
-- Affiliate partnerships with local services (with disclosure)
+This is the clearest value and where the site pays for itself first.
+
+**The client pitch:** Show up to a meeting with an HVAC company or dentist and say "I ranked #1 for 'best HVAC companies in Draper' — here's the Search Console data proving real impressions and clicks." This is more convincing than any case study or testimonial because it's verifiable, current, and in their exact market.
+
+**How it generates leads:**
+1. Write a guide like "Best HVAC Companies Serving Draper"
+2. Rank it organically
+3. Approach local HVAC companies: "I have a page ranking for your target keyword getting X impressions/month. I can feature your business prominently, or I can build this same strategy on your own domain."
+4. That's the warm intro — no cold calling, just offering something they can see working
+
+**The 301 redirect play:** Build content on this domain, rank it, then when a client signs a retainer, migrate that content to *their* site with a 301 redirect. They get an instant SEO head start — a tangible deliverable on day one that most SEO consultants can't offer.
+
+**Revenue:** Consulting retainers ($1,500–$5,000/month per client). The site doesn't need to make money directly — it's a sales tool that closes retainer clients.
+
+### Business Case 2: Independent Revenue (Longer-Term)
+
+This is a ladder with four rungs, built in order:
+
+**Rung 1 — Featured Placements (start once vertical pages rank)**
+Once a vertical page ranks and gets traffic, businesses listed on it are getting free exposure. Charge for:
+- Premium positioning (listed first with a longer writeup)
+- A "Featured" badge
+- A link to their website (vs. just a mention)
+
+This is the Wirecutter model: genuinely useful editorial content, but featured businesses pay to be there. Price point: $100–$300/month per business per page. 10 vertical pages with 2 featured businesses each = $2,000–$6,000/month.
+
+**Rung 2 — Newsletter Sponsorships (start once subscriber list is built)**
+A local email list of people researching neighborhoods and local services is extremely valuable to real estate agents, mortgage lenders, home service companies, and restaurants. 1,000 engaged local subscribers is worth more than 50,000 random ones. A single weekly newsletter sponsor could pay $200–$500/send ($800–$2,000/month from one sponsor slot).
+
+**Rung 3 — Sponsored Content (start once traffic + credibility are established)**
+A business pays for a dedicated feature written to editorial standards. "Sponsored by" tag at the top, but the content is genuinely useful. This is how every local magazine and city blog makes money. Price point: $500–$2,000 per sponsored post.
+
+**Rung 4 — Display Ads (last — requires traffic volume)**
+Mediavine or AdSense requires 10,000+ monthly sessions. Don't chase this early — it's pennies compared to direct revenue above.
+
+### How It All Connects
+
+Think of it as concentric circles:
+1. **Inner circle** — The site closes consulting clients (happening now)
+2. **Middle circle** — Businesses pay to be featured on pages that already rank (starts when 5-10 pages are ranking)
+3. **Outer circle** — The audience becomes the product: newsletter sponsors, sponsored content, display ads (starts with consistent traffic + subscriber list)
+
+These don't all need to work at once. Right now, the site only needs to help close 1-2 consulting clients to pay for itself many times over. Independent revenue builds naturally as content compounds.
 
 ---
 
@@ -123,6 +157,19 @@ Last updated: 2026-03-27
 - Potential spin-off guides for other mountain west metros (Boise, Denver, Reno)
 - Content licensing to real estate brokerages and relocation companies
 - 301 redirect strategy: migrate high-performing content to client sites as an SEO head start
+
+---
+
+## Current Priority Focus
+
+The independent money follows the traffic, and the traffic follows the content. Right now:
+
+1. **Publish more guides** — need content ranking before anything else matters
+2. **Get Search Console data** — that's the proof for client pitches
+3. **Add newsletter signup** — start building the list even with low traffic
+4. **Write the first vertical sub-pages** for areas with existing clients (Draper HVAC, Sandy barbers) — these pages directly generate consulting leads
+
+Don't worry about monetizing the site independently yet. Focus on content volume and rankings first.
 
 ---
 
