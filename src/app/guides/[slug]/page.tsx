@@ -65,7 +65,7 @@ export default async function GuidePage({ params }: PageProps) {
             backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")`,
           }}
         />
-        <div className="relative z-2 px-6 md:px-12 max-w-[700px] pb-16">
+        <div className="relative z-2 px-6 md:px-12 max-w-[700px] pb-40 md:pb-28">
           <div className="text-[12px] text-white/35 mb-4">
             <Link href="/" className="text-sage no-underline hover:text-sage/80">
               Home
