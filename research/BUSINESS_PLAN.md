@@ -205,6 +205,9 @@ The independent money follows the traffic, and the traffic follows the content. 
 
 Don't worry about monetizing the site independently yet. Focus on content volume and rankings first.
 
+
+> Full market analysis, competitive landscape, SWOT, and industry trends are in [MARKET_ANALYSIS.md](MARKET_ANALYSIS.md).
+
 ---
 
 ## Notes & Ideas (Running List)
