@@ -2,10 +2,7 @@
 title: "Living in South Jordan & Daybreak, Utah"
 description: "A local's guide to living in South Jordan and Daybreak, Utah — schools, home prices, Daybreak community life, commute options, and what daily life really looks like."
 excerpt: "South Jordan is really two stories — a sprawling south valley suburb with solid bones, and Daybreak, the master-planned experiment that rewrote the rules for what Utah neighborhoods could be."
-coverImage: "/assets/posts/south-jordan/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/south-jordan/cover.jpg"
 type: "neighborhood-guide"
 area: "south-jordan"
 tags: ["south jordan", "daybreak", "south valley", "neighborhoods", "relocation"]

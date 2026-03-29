@@ -2,10 +2,7 @@
 title: "Living in Sugar House — Salt Lake City's Walkable Neighborhood"
 description: "A local's guide to living in Sugar House, Salt Lake City — home prices, walkability, schools, restaurants, and what daily life actually looks like in SLC's most urban neighborhood."
 excerpt: "Sugar House is the part of Salt Lake City where you can walk to dinner, argue about development at the next table, and still be on a trail in ten minutes."
-coverImage: "/assets/posts/sugar-house/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/sugar-house/cover.jpg"
 type: "neighborhood-guide"
 area: "sugar-house"
 tags: ["sugar house", "salt lake city", "neighborhoods", "relocation", "walkability"]

@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       type: "article",
       publishedTime: post.date,
       ...(post.author?.name && { authors: [post.author.name] }),
-      images: [{ url: post.ogImage.url }],
+      ...(post.ogImage?.url && { images: [{ url: post.ogImage.url }] }),
     },
   };
 }

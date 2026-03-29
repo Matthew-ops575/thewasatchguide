@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       type: "article",
       publishedTime: post.date,
       ...(post.author?.name && { authors: [post.author.name] }),
-      images: [{ url: post.ogImage.url }],
+      ...(post.ogImage?.url && { images: [{ url: post.ogImage.url }] }),
     },
   };
 }
@@ -181,7 +181,16 @@ export default async function AreaPage({ params }: PageProps) {
 
   // Extract the first paragraph as a lead paragraph
   const contentParts = post.contentHtml.split("</p>");
-  const firstParagraph = contentParts[0]?.replace(/<p>/, "") || "";
+  const firstParagraphHtml = contentParts[0]?.replace(/<p>/, "") || "";
+  const firstParagraph = firstParagraphHtml
+    .replace(/<[^>]+>/g, "")
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCharCode(parseInt(dec, 10)))
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'");
   const restContent = contentParts.slice(1).join("</p>");
 
   const articleSchema = {
@@ -274,7 +283,7 @@ export default async function AreaPage({ params }: PageProps) {
       <div className="max-w-[800px] mx-auto py-14 px-6 md:px-12">
         {/* Lead paragraph */}
         <p className="text-[18px] text-slate-brand leading-[1.8] font-normal mb-5">
-          {firstParagraph.replace(/<[^>]+>/g, "")}
+          {firstParagraph}
         </p>
 
         {/* Callout box */}

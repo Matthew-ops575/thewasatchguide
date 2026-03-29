@@ -2,10 +2,7 @@
 title: "Best Dentists in Sandy, Utah — A Local's Guide"
 description: "The best dentists in Sandy, Utah — family practices, pediatric specialists, and cosmetic offices that locals actually trust, with honest takes on each."
 excerpt: "Sandy has enough dental offices to fill a phone book, but only a handful that people recommend by name."
-coverImage: "/assets/posts/sandy-dentists/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/sandy-dentists/cover.jpg"
 type: "vertical"
 area: "sandy"
 category: "healthcare"

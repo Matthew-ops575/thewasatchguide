@@ -2,10 +2,7 @@
 title: "Draper vs Sandy, Utah — An Honest Comparison"
 description: "Draper vs Sandy Utah — a fair, side-by-side comparison of home prices, schools, commute times, outdoor access, and daily life in these two south valley cities."
 excerpt: "Two south valley neighbors, one honest comparison — here's what actually separates Draper and Sandy."
-coverImage: "/assets/posts/draper-vs-sandy/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/draper-vs-sandy/cover.jpg"
 type: "blog"
 area: null
 tags: ["draper", "sandy", "south valley", "comparison"]

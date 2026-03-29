@@ -2,10 +2,7 @@
 title: "Living in Draper, Utah"
 description: "Everything you need to know about living in Draper — schools, home prices, commute times, outdoor access, and what daily life actually looks like at the foot of the Wasatch."
 excerpt: "Draper sits at the place where the Salt Lake Valley finally runs out of flat ground — a city that has figured out how to be two things at once."
-coverImage: "/assets/posts/draper/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/draper/cover.jpg"
 type: "neighborhood-guide"
 area: "draper"
 tags: ["draper", "south valley", "neighborhoods", "relocation"]

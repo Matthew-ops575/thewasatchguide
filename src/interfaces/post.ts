@@ -8,9 +8,9 @@ export type Post = {
   description: string;
   date: string;
   author?: Author;
-  coverImage: string;
+  coverImage?: string;
   excerpt: string;
-  ogImage: {
+  ogImage?: {
     url: string;
   };
   content: string;

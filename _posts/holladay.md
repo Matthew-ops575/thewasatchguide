@@ -2,10 +2,7 @@
 title: "Living in Holladay & Millcreek, Utah"
 description: "A local's guide to living in Holladay and Millcreek, Utah — east bench neighborhoods, school districts, home prices, Millcreek Canyon access, and what daily life actually looks like."
 excerpt: "Two cities that share an east bench identity, mature tree canopy, and the quiet confidence of neighborhoods that were good before anyone was paying attention."
-coverImage: "/assets/posts/holladay/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/holladay/cover.jpg"
 type: "neighborhood-guide"
 area: "holladay"
 tags: ["holladay", "millcreek", "east bench", "neighborhoods", "relocation"]

@@ -2,10 +2,7 @@
 title: "Living in Cottonwood Heights, Utah"
 description: "Everything you need to know about living in Cottonwood Heights — from ski canyon access and mature neighborhoods to schools, real estate, and the quiet east bench life."
 excerpt: "There's a specific kind of person who ends up in Cottonwood Heights: someone who has done the math on every neighborhood in the Salt Lake Valley."
-coverImage: "/assets/posts/cottonwood-heights/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/cottonwood-heights/cover.jpg"
 type: "neighborhood-guide"
 area: "cottonwood-heights"
 tags: ["cottonwood heights", "east bench", "neighborhoods", "relocation"]

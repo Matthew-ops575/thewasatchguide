@@ -2,10 +2,7 @@
 title: "Living in Sandy, Utah"
 description: "Everything you need to know about living in Sandy — from canyon access and school districts to real estate, neighborhoods, and the best of south valley life."
 excerpt: "If you draw a line straight through the heart of the Salt Lake Valley's south end, it runs right through Sandy."
-coverImage: "/assets/posts/sandy/cover.jpg"
 date: "2026-03-29T06:00:00.000Z"
-ogImage:
-  url: "/assets/posts/sandy/cover.jpg"
 type: "neighborhood-guide"
 area: "sandy"
 tags: ["sandy", "south valley", "neighborhoods", "relocation"]
