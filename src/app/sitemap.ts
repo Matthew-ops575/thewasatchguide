@@ -1,16 +1,26 @@
 import { MetadataRoute } from "next";
-import { getAllGuides } from "@/lib/guides";
+import { getAllPosts } from "@/lib/api";
 
 const BASE_URL = "https://thewasatchguide.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const guides = getAllGuides();
+  const posts = getAllPosts();
 
-  const guideEntries: MetadataRoute.Sitemap = guides.map((guide) => ({
-    url: `${BASE_URL}/guides/${guide.slug}`,
-    lastModified: new Date(guide.date),
+  const guides = posts.filter((p) => p.type === "neighborhood-guide");
+  const articles = posts.filter((p) => p.type !== "neighborhood-guide");
+
+  const guideEntries: MetadataRoute.Sitemap = guides.map((post) => ({
+    url: `${BASE_URL}/${post.slug}`,
+    lastModified: new Date(post.date),
     changeFrequency: "monthly",
     priority: 0.8,
+  }));
+
+  const articleEntries: MetadataRoute.Sitemap = articles.map((post) => ({
+    url: `${BASE_URL}/blog/${post.slug}`,
+    lastModified: new Date(post.date),
+    changeFrequency: "monthly",
+    priority: 0.7,
   }));
 
   return [
@@ -21,11 +31,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
+      url: `${BASE_URL}/blog`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.6,
+    },
+    {
       url: `${BASE_URL}/about`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.5,
     },
     ...guideEntries,
+    ...articleEntries,
   ];
 }

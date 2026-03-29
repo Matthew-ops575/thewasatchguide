@@ -19,24 +19,41 @@ export function Footer() {
             Communities
           </div>
           <Link
-            href="/guides/living-in-draper-utah"
+            href="/draper"
             className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
           >
             Draper
           </Link>
-          <span className="block text-white/30 text-[13px] py-1">Sandy</span>
-          <span className="block text-white/30 text-[13px] py-1">
+          <Link
+            href="/sandy"
+            className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
+          >
+            Sandy
+          </Link>
+          <Link
+            href="/cottonwood-heights"
+            className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
+          >
             Cottonwood Heights
-          </span>
-          <span className="block text-white/30 text-[13px] py-1">
+          </Link>
+          <Link
+            href="/wasatch-back"
+            className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
+          >
             Wasatch Back
-          </span>
-          <span className="block text-white/30 text-[13px] py-1">
+          </Link>
+          <Link
+            href="/south-jordan"
+            className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
+          >
             South Jordan
-          </span>
-          <span className="block text-white/30 text-[13px] py-1">
+          </Link>
+          <Link
+            href="/holladay"
+            className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
+          >
             Holladay
-          </span>
+          </Link>
         </div>
         <div>
           <div className="text-[10px] font-bold tracking-[0.14em] uppercase text-white/45 mb-3.5">
