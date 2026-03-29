@@ -85,7 +85,12 @@ export function Footer() {
           >
             About the Guide
           </Link>
-          <span className="block text-white/30 text-[13px] py-1">Contact</span>
+          <Link
+            href="/contact"
+            className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
+          >
+            Contact
+          </Link>
           <span className="block text-white/30 text-[13px] py-1">
             Subscribe
           </span>

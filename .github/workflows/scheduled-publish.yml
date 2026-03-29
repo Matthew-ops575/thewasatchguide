@@ -1,0 +1,26 @@
+name: Publish scheduled posts
+
+on:
+  schedule:
+    # Runs daily at 12:00 UTC (6:00 AM MT)
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  check-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for posts scheduled today
+        id: check
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          echo "Checking for posts dated $TODAY..."
+          MATCHES=$(grep -rl "date: \"${TODAY}" _posts/ 2>/dev/null | wc -l | tr -d ' ')
+          echo "Found $MATCHES post(s) scheduled for today."
+          echo "has_posts=$([[ $MATCHES -gt 0 ]] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger Netlify build
+        if: steps.check.outputs.has_posts == 'true'
+        run: curl -X POST https://api.netlify.com/build_hooks/69c9b7066a68fd8c43e970a1
