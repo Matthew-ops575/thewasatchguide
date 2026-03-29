@@ -6,8 +6,11 @@ date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"
 area: "wasatch-back"
 tags: ["park city", "heber valley", "midway", "wasatch back", "neighborhoods", "relocation"]
+coverImage: "/images/park-city-snow.jpg"
 published: true
 ---
+
+![A mountain community nestled in the Wasatch Back with snow-covered ski runs rising in the background](/images/park-city-snow.jpg)
 
 ## Why the Wasatch Back?
 

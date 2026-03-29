@@ -179,8 +179,15 @@ export default async function AreaPage({ params }: PageProps) {
   const areaInfo = areaData[area];
   const areaName = areaInfo?.areaName || post.title.replace("Living in ", "").split(",")[0];
 
+  // Extract hero image (if the content starts with an <img> inside a <p>)
+  const heroImageMatch = post.contentHtml.match(/^<p><img\s+src="([^"]+)"\s+alt="([^"]*)"[^>]*><\/p>/);
+  const heroImage = heroImageMatch ? { src: heroImageMatch[1], alt: heroImageMatch[2] } : null;
+  const contentAfterImage = heroImageMatch
+    ? post.contentHtml.slice(heroImageMatch[0].length)
+    : post.contentHtml;
+
   // Extract the first paragraph as a lead paragraph
-  const contentParts = post.contentHtml.split("</p>");
+  const contentParts = contentAfterImage.split("</p>");
   const firstParagraphHtml = contentParts[0]?.replace(/<p>/, "") || "";
   const firstParagraph = firstParagraphHtml
     .replace(/<[^>]+>/g, "")
@@ -232,7 +239,18 @@ export default async function AreaPage({ params }: PageProps) {
       />
       {/* GUIDE HERO */}
       <section className="relative min-h-[50vh] flex items-end overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#2A3540] via-ridge to-slate-brand" />
+        {heroImage ? (
+          <>
+            <img
+              src={heroImage.src}
+              alt={heroImage.alt}
+              className="absolute inset-0 w-full h-full object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-[#2A3540] via-[#2A3540]/60 to-transparent" />
+          </>
+        ) : (
+          <div className="absolute inset-0 bg-gradient-to-br from-[#2A3540] via-ridge to-slate-brand" />
+        )}
         <div
           className="absolute inset-0 opacity-[0.03]"
           style={{

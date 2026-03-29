@@ -6,8 +6,11 @@ date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"
 area: "draper"
 tags: ["draper", "south valley", "neighborhoods", "relocation"]
+coverImage: "/images/living-in-draper.png"
 published: true
 ---
+
+![Draper, Utah at golden hour — neighborhoods meet the sagebrush foothills of Corner Canyon with Lone Peak and the Wasatch Range rising behind](/images/living-in-draper.png)
 
 ## Why Draper?
 

@@ -12,6 +12,7 @@ const areaGuides = [
     desc: "Mountain access, Silicon Slopes tech corridor, and Utah's most sought-after school district.",
     read: "12 min read",
     gradient: "from-[#3D5A4C] to-[#2A3540]",
+    coverImage: "/images/living-in-draper.png",
     featured: true,
   },
   {
@@ -37,6 +38,7 @@ const areaGuides = [
     desc: "Park City, Heber Valley, Midway — a different pace of life just 30 minutes from Salt Lake.",
     read: "14 min read",
     gradient: "from-[#4A5D6B] to-[#2C3E50]",
+    coverImage: "/images/park-city-snow.jpg",
   },
   {
     slug: "south-jordan",
@@ -250,11 +252,11 @@ export default function HomePage() {
       <div className="bg-slate-brand rounded-2xl py-10 md:py-14 px-6 md:px-16 grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center mx-4 md:mx-12 mb-20">
         <div>
           <div className="font-heading text-[26px] md:text-[32px] font-bold text-white leading-[1.15] mb-3">
-            Get the local<br />perspective, weekly.
+            New guides and updates<br />from the Wasatch Front.
           </div>
           <div className="text-sm text-white/45 leading-[1.7]">
-            One email per week with new neighborhood guides, local business
-            spotlights, and the updates that matter along the Wasatch Front.
+            Get notified when we publish new neighborhood guides, local
+            spotlights, and in-depth coverage of life along the Wasatch Front.
           </div>
         </div>
         <div>
