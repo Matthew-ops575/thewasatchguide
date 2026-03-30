@@ -205,9 +205,24 @@ export default async function AreaPage({ params }: PageProps) {
     ? post.contentHtml.slice(heroImageMatch[0].length)
     : post.contentHtml;
 
+  // Extract "At a Glance" section first (before lead paragraph extraction)
+  const atAGlanceMatch = contentAfterImage.match(/<h2>At a Glance<\/h2>\s*<ul>([\s\S]*?)<\/ul>/);
+  const atAGlanceItems: { label: string; value: string }[] = [];
+  if (atAGlanceMatch) {
+    const listHtml = atAGlanceMatch[1];
+    const liRegex = /<li>\s*<strong>(.*?)<\/strong>\s*(.*?)\s*<\/li>/g;
+    let match;
+    while ((match = liRegex.exec(listHtml)) !== null) {
+      atAGlanceItems.push({ label: match[1].replace(/:$/, ""), value: match[2] });
+    }
+  }
+  const contentWithoutGlance = atAGlanceMatch
+    ? contentAfterImage.replace(atAGlanceMatch[0], "")
+    : contentAfterImage;
+
   // Extract the first paragraph as a lead paragraph
-  const contentParts = contentAfterImage.split("</p>");
-  const firstParagraphHtml = contentParts[0]?.replace(/<p>/, "") || "";
+  const firstParagraphMatch = contentWithoutGlance.match(/<p>([\s\S]*?)<\/p>/);
+  const firstParagraphHtml = firstParagraphMatch ? firstParagraphMatch[1] : "";
   const firstParagraph = firstParagraphHtml
     .replace(/<[^>]+>/g, "")
     .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)))
@@ -217,7 +232,9 @@ export default async function AreaPage({ params }: PageProps) {
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, '"')
     .replace(/&apos;/g, "'");
-  const restContent = contentParts.slice(1).join("</p>");
+  const restContent = firstParagraphMatch
+    ? contentWithoutGlance.replace(firstParagraphMatch[0], "")
+    : contentWithoutGlance;
 
   const articleSchema = {
     "@context": "https://schema.org",
@@ -362,6 +379,29 @@ export default async function AreaPage({ params }: PageProps) {
         <p className="text-[18px] text-slate-brand leading-[1.8] font-normal mb-5">
           {firstParagraph}
         </p>
+
+        {/* At a Glance card */}
+        {atAGlanceItems.length > 0 && (
+          <div className="bg-warm rounded-[12px] border border-black/[.06] p-6 md:p-8 my-8">
+            <div className="flex items-center gap-2.5 mb-5">
+              <div className="w-5 h-0.5 bg-ridge" />
+              <h2 className="font-heading text-[20px] md:text-[22px] font-bold text-slate-brand m-0">
+                At a Glance
+              </h2>
+            </div>
+            <ul className="list-none m-0 p-0 space-y-3">
+              {atAGlanceItems.map((item) => (
+                <li key={item.label} className="flex gap-2.5 text-[15px] leading-[1.6]">
+                  <span className="w-1.5 h-1.5 rounded-full bg-ridge flex-shrink-0 mt-[9px]" />
+                  <div>
+                    <strong className="text-slate-brand">{item.label}:</strong>{" "}
+                    <span className="text-text" dangerouslySetInnerHTML={{ __html: item.value }} />
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
         {/* Callout box */}
         {areaInfo?.callout && (
