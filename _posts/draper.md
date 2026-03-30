@@ -12,15 +12,26 @@ published: true
 
 ![Draper, Utah at golden hour — neighborhoods meet the sagebrush foothills of Corner Canyon with Lone Peak and the Wasatch Range rising behind](/images/living-in-draper.png)
 
+## At a Glance
+
+- **Median Home Price:** $550K–$700K (west), $850K–$1.2M (east foothills)
+- **Population:** ~51,000
+- **School District:** Canyons School District
+- **School Rating:** A+
+- **Commute to Downtown SLC:** 22–35 min via I-15 or TRAX Blue Line
+- **Nearest Ski Resorts:** Brighton, Solitude, Snowbird, Alta (30–45 min)
+- **TRAX Access:** Yes — Blue Line terminus at Draper Town Center
+- **Vibe:** Tech corridor meets mountain foothills — Silicon Slopes energy on the west, horse property and canyon trails on the east
+
 ## Why Draper?
 
-Draper sits at the place where the Salt Lake Valley finally runs out of flat ground. The suburban grid pushes south from Sandy and South Jordan until it hits the sagebrush foothills of the Traverse Mountains, and right there — wedged between I-15 and the mouth of Corner Canyon — is a city that has figured out how to be two things at once. The western half is pure Silicon Slopes energy: glass-fronted office parks, new-build townhome clusters, and the kind of commercial development that follows when a few thousand tech workers need lunch options within five minutes of their desks. The eastern half is something else entirely — winding foothill roads, horse property, lots measured in fractions of acres, and a quiet that you wouldn't expect fifteen minutes from the freeway.
+Draper sits at the place where the Salt Lake Valley finally runs out of flat ground. The suburban grid pushes south from [Sandy](/sandy) and [South Jordan](/south-jordan) until it hits the sagebrush foothills of the Traverse Mountains, and right there — wedged between I-15 and the mouth of Corner Canyon — is a city that has figured out how to be two things at once. The western half is pure Silicon Slopes energy: glass-fronted office parks, new-build townhome clusters, and the kind of commercial development that follows when a few thousand tech workers need lunch options within five minutes of their desks. The eastern half is something else entirely — winding foothill roads, horse property, lots measured in fractions of acres, and a quiet that you wouldn't expect fifteen minutes from the freeway.
 
 That duality is what makes Draper work. It's not a bedroom community and it's not a mountain town, but it borrows convincingly from both. Families come for the schools, outdoor people come for Corner Canyon, tech workers come because their office is literally right there, and a surprising number of people come simply because the views from the east side of the city are hard to match anywhere in the valley without spending Park City money.
 
 The population sits around 51,000, which is large enough to support genuine infrastructure — good parks, well-maintained roads, responsive city services — without the bureaucratic bloat or traffic density of a city twice its size. Draper has a civic identity that feels earned rather than marketed. The annual Draper Days celebration in September draws the kind of turnout that suggests people actually like living here, not just that they ended up here.
 
-## The Neighborhood Vibe
+## What It's Like to Live in Draper
 
 The east-west divide in Draper isn't just geographic — it genuinely shapes what daily life feels like depending on which side of Highland Drive you land on.
 
@@ -44,12 +55,12 @@ Draper falls entirely within the **Canyons School District**, which separated fr
 
 Elementary schools are distributed across the city's neighborhoods, and most carry strong ratings. The specific school your kids attend depends on your address — boundary maps matter here, so check them before you fall in love with a house. The Canyons District website has current boundary information, and it's worth consulting directly rather than relying on third-party real estate sites that occasionally lag behind redistricting decisions.
 
-## Real Estate Snapshot
+## Draper Home Prices & Real Estate in 2026
 
 Draper's housing market reflects its dual personality. The price spread between east and west, between the valley floor and SunCrest, between a 1990s rambler and a 2020 custom build, is wide enough that saying "the median price" obscures more than it reveals. But here's the honest picture as of early 2026:
 
 - **West Draper and newer developments:** $550K–$700K for single-family homes, with townhomes and condos near the TRAX station starting in the $400K–$500K range. This is where most first-time Draper buyers land, and the inventory turns over with reasonable regularity.
-- **Central and established neighborhoods:** $650K–$850K, depending heavily on lot size, updates, and proximity to the foothills. A well-kept home in Cranberry Farms or Oak Vista in this range offers solid value relative to what you'd pay for equivalent square footage in Cottonwood Heights or Holladay.
+- **Central and established neighborhoods:** $650K–$850K, depending heavily on lot size, updates, and proximity to the foothills. A well-kept home in Cranberry Farms or Oak Vista in this range offers solid value relative to what you'd pay for equivalent square footage in [Cottonwood Heights](/cottonwood-heights) or [Holladay](/holladay).
 - **East side foothills and custom builds:** $850K–$1.2M and up. The lots are bigger, the views are better, and the supply is thin. Properties in this tier don't come up often, and when they do, they tend to move within a few weeks if priced realistically.
 - **SunCrest:** Its own micro-market. Prices range from $600K for a standard lot to well over $1M for the premium view lots. The community's isolation is reflected in slightly longer days-on-market compared to the valley floor, but demand remains steady among buyers who have already decided the lifestyle trade-off is worth it.
 
@@ -57,7 +68,7 @@ New construction in Draper is increasingly constrained. The city is approaching 
 
 The planned FrontRunner commuter rail extension through the Point of the Mountain area, expected to take shape through 2030, is widely expected to push property values higher along the western I-15 corridor. Whether that's a reason to buy now or a sign of future congestion depends on your perspective, but it's worth factoring into the long-term calculus.
 
-## Getting Around
+## Draper Commute Times & Transportation
 
 Draper's transportation picture is better than most south valley suburbs, though it still has its friction points.
 
@@ -69,7 +80,7 @@ Draper's transportation picture is better than most south valley suburbs, though
 
 The honest assessment: if you live on the east side and work anywhere other than the immediate Silicon Slopes corridor, you're looking at a car-dependent lifestyle with non-trivial commute times during peak hours. That's the price of the location. Most east-side residents have made their peace with it.
 
-## Lifestyle and Local Favorites
+## Things to Do in Draper — Trails, Dining & Local Life
 
 Draper's outdoor access is the single feature that gets mentioned first in every conversation about living here, and it deserves the attention. **Corner Canyon** is a trail network that most cities would build their entire recreation identity around — and Draper essentially has it in the backyard.
 
@@ -79,13 +90,13 @@ The system connects hundreds of miles of singletrack and fire roads across the f
 
 **Draper Cycle Park** is a more recent addition — a pump track and skills course near the city center that has become a magnet for mountain bikers of all ages, especially families with kids who are learning to ride.
 
-Winter flips the script to skiing. Brighton, Solitude, Snowbird, and Alta are all accessible via Big and Little Cottonwood Canyon, with drive times ranging from 30 to 45 minutes depending on conditions and which resort you're heading to. It's not as close as Cottonwood Heights, but it's close enough that a weeknight run at Brighton after work is entirely realistic.
+Winter flips the script to skiing. Brighton, Solitude, Snowbird, and Alta are all accessible via Big and Little Cottonwood Canyon, with drive times ranging from 30 to 45 minutes depending on conditions and which resort you're heading to. It's not as close as [Cottonwood Heights](/cottonwood-heights), but it's close enough that a weeknight run at Brighton after work is entirely realistic.
 
-The dining and retail scene in Draper has matured considerably in recent years, particularly along the 12300 South corridor and in the Draper Peaks shopping center. **Even Stevens** is a reliable lunch spot. **Lone Peak Brewery** near 123rd South has become a neighborhood staple for casual evenings. The restaurant options don't rival Sandy's State Street corridor in sheer variety, but the gap is closing, and the proximity to the Traverse Mountain shopping in Lehi adds depth that wasn't there five years ago.
+The dining and retail scene in Draper has matured considerably in recent years, particularly along the 12300 South corridor and in the Draper Peaks shopping center. **Even Stevens** is a reliable lunch spot. **Lone Peak Brewery** near 123rd South has become a neighborhood staple for casual evenings. The restaurant options don't rival [Sandy](/sandy)'s State Street corridor in sheer variety, but the gap is closing, and the proximity to the Traverse Mountain shopping in Lehi adds depth that wasn't there five years ago.
 
 **Draper Days** in September remains the city's signature community event — a week of parades, rodeo events, a car show, and fireworks that draws residents out of their neighborhoods and into something that actually feels like a shared civic experience. It's earnest in a way that's hard to manufacture, and long-time residents will tell you it's one of the things that makes Draper feel like a place rather than just a location.
 
-## The Bottom Line
+## Is Draper a Good Place to Live?
 
 Draper works because it offers a lifestyle equation that's hard to replicate elsewhere in the valley. The trail access alone would be enough to justify the location, but combine it with strong schools, a growing tech economy that means many residents can commute in five minutes or not at all, and a genuine range of housing options from TRAX-adjacent condos to estate-sized foothills lots, and the picture becomes clear.
 

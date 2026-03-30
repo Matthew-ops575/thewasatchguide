@@ -12,6 +12,15 @@ published: true
 
 ![A mountain community nestled in the Wasatch Back with snow-covered ski runs rising in the background](/images/park-city-snow.jpg)
 
+## At a Glance
+
+- **Median Home Price:** $3M+ (Park City), $600K–$800K (Heber City), $850K–$1M (Midway)
+- **Combined Population:** ~34,000 across three towns
+- **School Districts:** Park City School District (top 10 in Utah), Wasatch County School District (2025 Best of State)
+- **Commute to Downtown SLC:** 35–45 min from Park City via I-80, 50+ min from Heber via US-189
+- **Nearest Ski Resorts:** Park City Mountain, Deer Valley (5 min from Park City), Soldier Hollow (15 min from Heber)
+- **Vibe:** Mountain-town living on the eastern slope of the Wasatch — world-class skiing, 350+ miles of trails, and a different pace of life 30 minutes from Salt Lake
+
 ## Why the Wasatch Back?
 
 Drive east on I-80 through Parley's Canyon and the Salt Lake Valley disappears behind you in about twenty minutes. The freeway crests at Parley's Summit, drops into the high plateaus of Summit and Wasatch counties, and the entire feel of the place shifts. The air is drier. The sky sits closer. The towns are smaller and the open space between them is still, genuinely, open. This is the Wasatch Back — the eastern slope of the range that defines Utah's population corridor — and it operates on a different set of rules than the valley floor below.
@@ -22,7 +31,7 @@ South of Park City, the Heber Valley opens up — a wide agricultural basin ring
 
 The people who end up here tend to fall into a few categories: outdoor athletes who need daily mountain access, remote workers who traded a valley commute for a view of Timpanogos, ski industry professionals, retirees who sold a house on the Wasatch Front and bought something with acreage, and families who decided the trade-offs of small-town mountain living were worth it. What unites them is a willingness to drive Parley's Canyon or US-189 when the situation demands it and a conviction that the extra effort buys something the valley can't match.
 
-## The Neighborhood Vibe
+## What It's Like to Live in Park City, Heber Valley & Midway
 
 Park City, Heber City, and Midway sit within thirty minutes of each other, but they don't feel like variations on a theme. They feel like different towns in different states.
 
@@ -32,7 +41,7 @@ Park City, Heber City, and Midway sit within thirty minutes of each other, but t
 
 **Midway** is the quiet one. Settled in the 1860s by Swiss and German immigrants, it has held onto a sense of place that feels almost anachronistic. The Homestead Resort and its geothermal crater — the only warm-water scuba destination in the continental U.S. — anchors the west side of town. Swiss Days every August draws thousands. The streets are tree-lined, the lots are generous, and the zoning has kept things from tipping into subdivision sprawl. Midway residents tend to be deliberate about having chosen Midway specifically, not just the Heber Valley generally.
 
-## Practical Data
+## Wasatch Back Schools, Housing Costs & Commute Times
 
 ### Schools
 
@@ -58,7 +67,7 @@ The price spread across the Wasatch Back is enormous. Here's where things stood 
 
 **Midway:** Median prices land between $850K and $1M, reflecting the town's desirability, limited inventory, and larger lot sizes. Midway doesn't have the entry-level options that Heber does — there's very little condo or townhome stock. You're buying a house on land, and the land isn't cheap.
 
-## Best Pockets and Subdivisions
+## Best Neighborhoods in Park City, Heber City & Midway
 
 ### Park City
 
@@ -82,7 +91,7 @@ Development in Heber has pushed north and east along US-40. **North Village** is
 
 Midway's development pattern is more dispersed. The streets around **Main Street and Center Street** have the most traditional small-town character — older homes, mature trees, walking distance to shops and restaurants. The west side of town near the **Homestead Resort** draws buyers who want proximity to the hot springs and the Swiss-village aesthetic. Newer development has pushed toward the edges, particularly along **River Road** and toward the **Soldier Hollow** area, where homes on larger lots offer views of the Heber Valley floor and direct access to Nordic skiing and trail networks.
 
-## Lifestyle and Outdoors
+## Things to Do on the Wasatch Back — Skiing, Trails & Mountain Life
 
 The Wasatch Back's outdoor access is the whole point. Two world-class ski resorts sit within minutes of Park City's core neighborhoods. **Park City Mountain** — the largest ski resort in the U.S. by acreage — connects Canyons Village and the original Park City base via the Quicksilver Gondola. **Deer Valley**, directly east of Old Town, has undergone a massive expansion for 2025-26: nearly 100 new runs, 10 new chairlifts, the East Village Express Gondola, and a new base village with hotels, dining, and retail. Deer Valley's total skiable terrain now exceeds 4,300 acres. A Four Seasons hotel is slated to open at the East Village by 2028.
 
@@ -96,7 +105,7 @@ Heber's food scene is simpler but growing. **Midway Mercantile** and **Cafe Gall
 
 The cultural calendar is anchored by the **Sundance Film Festival** in January, the **Park City Kimball Arts Festival** in August, and Midway's **Swiss Days**, also in August. The **Egyptian Theatre** on Main Street runs year-round programming. The Heber Valley Railroad offers scenic excursions through Provo Canyon that draw tourists but also provide a genuinely beautiful ride that locals take visitors on at least once.
 
-## Market Snapshot
+## Wasatch Back Real Estate Market in 2026
 
 The Park City real estate market operates in two distinct tiers. The resort and luxury segment — ski-in/ski-out condos, Deer Valley properties, Promontory estates — is driven by out-of-state buyers, second-home demand, and the Deer Valley expansion, which has injected fresh energy (and fresh capital) into the east side of the market. Median prices within Park City limits have pushed past $3 million, with the broader Snyderville Basin median around $1.5-2M. Inventory remains tight, particularly for anything under $1.5M.
 
@@ -104,9 +113,9 @@ Heber Valley is increasingly positioned as the pressure-relief valve. Families a
 
 Midway's market is constrained by limited inventory and a community that has actively resisted high-density development. Homes trade less frequently here, and when they do, the prices reflect both the scarcity and the lifestyle premium. If you're waiting for a deal in Midway, you'll be waiting a while.
 
-For context, a comparable family home in [Cottonwood Heights](/cottonwood-heights) runs $700K-$900K with a 30-minute ski commute to Brighton or Solitude — no canyon pass required, no resort-town pricing. The Wasatch Back asks you to pay more for the privilege of living at the mountain rather than driving to it.
+For context, a comparable family home in [Cottonwood Heights](/cottonwood-heights) runs $700K–$900K with a 30-minute ski commute to Brighton or Solitude — no canyon pass required, no resort-town pricing. The Wasatch Back asks you to pay more for the privilege of living at the mountain rather than driving to it.
 
-## The Bottom Line
+## Is the Wasatch Back a Good Place to Live?
 
 The Wasatch Back delivers a version of mountain living that's hard to find this close to a major metro area. Park City offers world-class skiing, dining, and culture at world-class prices. Heber City provides a more grounded, affordable alternative with strong schools and room to grow — though "affordable" is increasingly relative. Midway is the quiet card for buyers who want space, character, and a pace that hasn't been fully overwritten by growth.
 

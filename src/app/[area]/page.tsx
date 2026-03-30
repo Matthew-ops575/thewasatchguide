@@ -23,6 +23,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: post.title,
     description: post.description,
+    alternates: {
+      canonical: `https://thewasatchguide.com/${area}`,
+    },
     openGraph: {
       title: post.title,
       description: post.description,
@@ -40,6 +43,8 @@ const areaData: Record<string, {
   stats: { num: string; label: string }[];
   callout: string;
   exploreCards: { icon: string; title: string; desc: string }[];
+  geo: { lat: number; lng: number };
+  faq: { question: string; answer: string };
 }> = {
   "draper": {
     areaName: "Draper",
@@ -57,6 +62,8 @@ const areaData: Record<string, {
       { icon: "\ud83c\udfe5", title: "Healthcare", desc: "Top-rated doctors, dentists, and specialists near Draper with honest patient perspectives." },
       { icon: "\u26f0\ufe0f", title: "Outdoor Guide", desc: "Corner Canyon trails, canyon access, ski proximity, and the outdoor life that defines Draper." },
     ],
+    geo: { lat: 40.5247, lng: -111.8638 },
+    faq: { question: "Why move to Draper, Utah?", answer: "Draper offers a unique combination of Silicon Slopes tech employment, top-rated Canyons School District schools, and immediate access to Corner Canyon's 450+ miles of trails. The western half provides TRAX-connected suburban convenience while the eastern foothills offer mountain views and larger lots — all within 25 minutes of downtown Salt Lake City." },
   },
   "sandy": {
     areaName: "Sandy",
@@ -74,6 +81,8 @@ const areaData: Record<string, {
       { icon: "\ud83c\udfe5", title: "Healthcare", desc: "Family doctors, dentists, and specialists serving Sandy \u2014 with honest local perspectives." },
       { icon: "\u26f0\ufe0f", title: "Outdoor Guide", desc: "Dimple Dell trails, canyon access, and the outdoor life that makes Sandy\u2019s location unbeatable." },
     ],
+    geo: { lat: 40.5650, lng: -111.8590 },
+    faq: { question: "Why move to Sandy, Utah?", answer: "Sandy offers genuine centrality in the Salt Lake Valley — equidistant from downtown SLC, four ski resorts, and major employment centers. With TRAX light rail access, a maturing dining scene along State Street, and home prices significantly lower than Draper or the east bench, Sandy delivers more city for less money without sacrificing school quality in the Canyons District half." },
   },
   "cottonwood-heights": {
     areaName: "Cottonwood Heights",
@@ -91,6 +100,8 @@ const areaData: Record<string, {
       { icon: "\ud83c\udfe5", title: "Healthcare", desc: "Top doctors, dentists, and specialists near Cottonwood Heights with real patient perspectives." },
       { icon: "\u26f0\ufe0f", title: "Outdoor Guide", desc: "Big Cottonwood Canyon, Mt. Olympus, Pipeline Trail \u2014 the outdoor access that defines life here." },
     ],
+    geo: { lat: 40.6163, lng: -111.8102 },
+    faq: { question: "Why move to Cottonwood Heights, Utah?", answer: "Cottonwood Heights offers the best ski canyon access in the Salt Lake Valley — four world-class resorts within 25 minutes. The city has mature, established neighborhoods with real tree canopy, strong Canyons School District schools, and a 15-minute commute to downtown SLC. Low turnover means people who move here tend to stay." },
   },
   "wasatch-back": {
     areaName: "Wasatch Back",
@@ -108,6 +119,8 @@ const areaData: Record<string, {
       { icon: "\ud83c\udfe5", title: "Healthcare", desc: "Doctors, dentists, and specialists serving Park City and Heber Valley residents." },
       { icon: "\u26f0\ufe0f", title: "Outdoor Guide", desc: "Deer Valley, Park City Mountain, 350+ miles of trails, and the outdoor life that defines the Wasatch Back." },
     ],
+    geo: { lat: 40.6461, lng: -111.4980 },
+    faq: { question: "Why move to the Wasatch Back?", answer: "The Wasatch Back offers mountain-town living just 35 minutes from Salt Lake City. Park City has world-class skiing at Park City Mountain and Deer Valley, 350+ miles of mountain biking trails, and a vibrant Main Street dining scene. Heber City provides a more affordable alternative with strong schools (named Utah's 2025 Best of State district) and real acreage at a fraction of Park City prices." },
   },
   "south-jordan": {
     areaName: "South Jordan",
@@ -125,6 +138,8 @@ const areaData: Record<string, {
       { icon: "\ud83c\udfe5", title: "Healthcare", desc: "Family doctors, dentists, and specialists near South Jordan with real patient perspectives." },
       { icon: "\u26f0\ufe0f", title: "Outdoor Guide", desc: "Oquirrh Lake, Jordan River Parkway, and the outdoor amenities that make Daybreak and South Jordan unique." },
     ],
+    geo: { lat: 40.5622, lng: -111.9297 },
+    faq: { question: "Why move to South Jordan or Daybreak?", answer: "South Jordan offers two distinct lifestyles in one city. Traditional South Jordan east of Bangerter has larger lots, strong Jordan School District schools (including top-ranked Bingham High), and a quieter suburban feel. Daybreak on the west side is Utah's most successful walkable community — with Oquirrh Lake, TRAX light rail to downtown, SoDa Row dining, and the new Salt Lake Bees ballpark." },
   },
   "holladay": {
     areaName: "Holladay & Millcreek",
@@ -142,6 +157,8 @@ const areaData: Record<string, {
       { icon: "\ud83c\udfe5", title: "Healthcare", desc: "Top doctors, dentists, and specialists on the east bench with honest local perspectives." },
       { icon: "\u26f0\ufe0f", title: "Outdoor Guide", desc: "Millcreek Canyon, Mt. Olympus, and the trail access that defines east bench living." },
     ],
+    geo: { lat: 40.6605, lng: -111.8246 },
+    faq: { question: "Why move to Holladay or Millcreek, Utah?", answer: "Holladay and Millcreek offer mature east bench neighborhoods with sixty years of tree canopy, a 10-15 minute commute to downtown SLC, and direct Millcreek Canyon access for hiking and biking. The area provides a broader price range than Cottonwood Heights — from $450K condos in Millcreek to $1M+ foothills homes in Holladay — with strong schools at Skyline and Olympus High." },
   },
   "sugar-house": {
     areaName: "Sugar House",
@@ -159,6 +176,8 @@ const areaData: Record<string, {
       { icon: "\ud83c\udfe5", title: "Healthcare", desc: "Doctors, dentists, and specialists near Sugar House with honest local perspectives." },
       { icon: "\u26f0\ufe0f", title: "Outdoor Guide", desc: "Sugar House Park, Parley\u2019s Trail, Hidden Hollow, and the green spaces that anchor the neighborhood." },
     ],
+    geo: { lat: 40.7223, lng: -111.8585 },
+    faq: { question: "Why move to Sugar House, Salt Lake City?", answer: "Sugar House is the most walkable neighborhood along the Wasatch Front — with independent shops, restaurants, and Sugar House Park all reachable on foot. The S-Line streetcar connects to TRAX, downtown is 8 minutes away, and Parley's Trail provides a bike corridor to the canyons. It's Salt Lake City's best option for people who want genuine urban neighborhood life without sacrificing mountain access." },
   },
 };
 
@@ -222,10 +241,38 @@ export default async function AreaPage({ params }: PageProps) {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: "https://thewasatchguide.com" },
-      { "@type": "ListItem", position: 2, name: "Area Guides", item: "https://thewasatchguide.com" },
+      { "@type": "ListItem", position: 2, name: "Area Guides", item: "https://thewasatchguide.com/guides" },
       { "@type": "ListItem", position: 3, name: areaName, item: `https://thewasatchguide.com/${area}` },
     ],
   };
+
+  const placeSchema = areaInfo?.geo ? {
+    "@context": "https://schema.org",
+    "@type": "Place",
+    name: areaName,
+    description: post.description,
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: areaInfo.geo.lat,
+      longitude: areaInfo.geo.lng,
+    },
+    url: `https://thewasatchguide.com/${area}`,
+  } : null;
+
+  const faqSchema = areaInfo?.faq ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: areaInfo.faq.question,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: areaInfo.faq.answer,
+        },
+      },
+    ],
+  } : null;
 
   return (
     <div>
@@ -237,6 +284,18 @@ export default async function AreaPage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {placeSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(placeSchema) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       {/* GUIDE HERO */}
       <section className="relative min-h-[50vh] flex items-end overflow-hidden">
         {heroImage ? (
@@ -263,7 +322,7 @@ export default async function AreaPage({ params }: PageProps) {
               Home
             </Link>
             {" / "}
-            <span className="text-sage">Area Guides</span>
+            <Link href="/guides" className="text-sage no-underline hover:text-sage/80">Area Guides</Link>
             {" / "}
             {areaName}
           </div>

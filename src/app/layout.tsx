@@ -33,8 +33,6 @@ const organizationSchema = {
   "@type": "Organization",
   name: "The Wasatch Guide",
   url: "https://thewasatchguide.com",
-  logo: "https://thewasatchguide.com/logo.png",
-  sameAs: [],
 };
 
 export default function RootLayout({
