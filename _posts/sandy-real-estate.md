@@ -1,6 +1,6 @@
 ---
-title: "Sandy Real Estate — What Buyers and Sellers Should Know in 2026"
-description: "An honest look at Sandy's real estate market in 2026 — prices by neighborhood, the Granite-Canyons district split, inventory dynamics, and what buyers and sellers should actually expect."
+title: "Sandy Real Estate Market 2026 — Local Guide"
+description: "Sandy real estate in 2026 — prices by neighborhood, the Granite-Canyons district split, inventory trends, and what buyers and sellers should expect."
 excerpt: "Sandy's market has something most south valley cities don't — real depth. Enough inventory to compare, enough variation to find your price point, and two school districts that create a pricing fault line most buyers don't see coming."
 date: "2026-04-01T06:00:00.000Z"
 type: "vertical"
@@ -76,4 +76,4 @@ Sandy's real estate market is the most balanced in the south valley. It's not as
 
 The district split is the feature that most shapes the market, and it cuts both ways. Canyons District addresses command real premiums and hold value well. Granite District addresses offer genuine value for buyers who are making decisions based on location, access, and affordability rather than school district branding. Both sides of the line have neighborhoods worth living in — the key is knowing which trade-offs you're making and pricing accordingly.
 
-For the full picture of daily life in Sandy — neighborhoods, commute times, outdoor access, and schools — read our [Sandy neighborhood guide](/sandy).
+For the full picture of daily life in Sandy — neighborhoods, commute times, outdoor access, and schools — read our [Sandy neighborhood guide](/sandy). First-time buyers should also see our [best neighborhoods for first-time buyers](/blog/best-neighborhoods-first-time-buyers) guide, and for the broader market view, read [where prices are softening along the Wasatch Front in 2026](/blog/where-prices-softening-2026).

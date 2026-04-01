@@ -168,7 +168,7 @@ export default function HomePage() {
             <span className="text-[10px] font-bold tracking-[0.16em] uppercase text-ridge">Area Guides</span>
           </div>
           <div className="font-heading text-4xl font-bold text-slate-brand leading-[1.1] mb-2">Find Your Community</div>
-          <div className="text-[15px] text-muted leading-[1.7] max-w-[520px]">Everything you need to know before you move — or to appreciate where you already live.</div>
+          <div className="text-[15px] text-muted leading-[1.7] max-w-[520px]">Everything you need to know before you move — or to appreciate where you already live. <Link href="/guides" className="text-ridge no-underline hover:text-ridge-light font-medium">Explore all community guides &rarr;</Link></div>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
           {areaGuides.map((area) => {

@@ -2,9 +2,9 @@ import { Metadata } from "next";
 import { ContactForm } from "@/components/ContactForm";
 
 export const metadata: Metadata = {
-  title: "Contact",
+  title: "Contact The Wasatch Guide",
   description:
-    "Get in touch with The Wasatch Guide — questions, corrections, content suggestions, or business inquiries.",
+    "Reach The Wasatch Guide with questions, corrections, local tips, or business inquiries. We cover neighborhoods along Utah's Wasatch Front.",
 };
 
 export default function ContactPage() {

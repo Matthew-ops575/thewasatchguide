@@ -1,6 +1,6 @@
 ---
-title: "South Jordan Real Estate — What Buyers and Sellers Should Know in 2026"
-description: "An honest look at South Jordan's real estate market in 2026 — Daybreak vs traditional neighborhoods, pricing by area, new construction, TRAX access, and what buyers and sellers should actually expect."
+title: "South Jordan Real Estate 2026 — Daybreak & Beyond"
+description: "South Jordan real estate in 2026 — Daybreak vs traditional neighborhoods, pricing by area, new construction, and what buyers should expect."
 excerpt: "South Jordan is really two markets wearing one city name. Daybreak and traditional South Jordan attract different buyers, price differently, and behave differently. Here's what that means if you're buying or selling in 2026."
 date: "2026-04-07T06:00:00.000Z"
 type: "vertical"
@@ -78,4 +78,4 @@ The Daybreak question is the defining feature of this market and will remain so.
 
 Neither side is objectively better. They're different products for different priorities. Understanding which one fits yours is the most important work you can do before you start making offers.
 
-For a deeper look at daily life in South Jordan — neighborhoods, commutes, schools, and outdoor access — read our [South Jordan area guide](/south-jordan).
+For a deeper look at daily life in South Jordan — neighborhoods, commutes, schools, and outdoor access — read our [South Jordan area guide](/south-jordan). First-time buyers should check our [best neighborhoods for first-time buyers](/blog/best-neighborhoods-first-time-buyers) guide, and for the broader pricing trends, see [where home prices are softening in 2026](/blog/where-prices-softening-2026).

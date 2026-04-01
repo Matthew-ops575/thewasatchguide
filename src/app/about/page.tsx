@@ -1,9 +1,9 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About",
+  title: "About Us — Local Wasatch Front Editorial",
   description:
-    "The Wasatch Guide is a local editorial site covering neighborhoods along Utah's Wasatch Front.",
+    "The Wasatch Guide is an independent editorial site covering neighborhoods, schools, real estate, and daily life along Utah's Wasatch Front. Written by locals.",
 };
 
 export default function AboutPage() {

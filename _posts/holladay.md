@@ -1,6 +1,6 @@
 ---
 title: "Living in Holladay & Millcreek, Utah"
-description: "A local's guide to living in Holladay and Millcreek, Utah — east bench neighborhoods, school districts, home prices, Millcreek Canyon access, and what daily life actually looks like."
+description: "Living in Holladay and Millcreek — east bench home prices, school districts, Millcreek Canyon access, and honest neighborhood insights."
 excerpt: "Two cities that share an east bench identity, mature tree canopy, and the quiet confidence of neighborhoods that were good before anyone was paying attention."
 date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"
@@ -109,3 +109,7 @@ Compared to [Cottonwood Heights](/cottonwood-heights), Holladay and Millcreek of
 ## Is Holladay or Millcreek a Good Place to Live?
 
 Holladay and Millcreek are not flashy. They don't have a ski canyon in the backyard or a buzzy downtown strip. What they have is harder to quantify: sixty years of neighborhood maturity, a location that makes everything in the valley accessible, Millcreek Canyon for the days you need to disappear into the mountains, and a housing stock that rewards buyers willing to see past dated kitchens to the bones underneath. The school district split requires homework. The older homes require maintenance budgets. But for buyers who value substance over novelty, these two cities represent some of the most honest real estate on the Wasatch Front.
+
+## Dig Deeper Into Holladay & Millcreek
+
+- **[Cottonwood Heights vs Holladay comparison](/blog/cottonwood-heights-vs-holladay)** — An honest look at how these two east bench neighbors stack up on housing, schools, and canyon access.

@@ -1,6 +1,6 @@
 ---
-title: "Living in Draper, Utah"
-description: "Everything you need to know about living in Draper — schools, home prices, commute times, outdoor access, and what daily life actually looks like at the foot of the Wasatch."
+title: "Living in Draper, Utah — A Local's Guide"
+description: "Living in Draper, Utah — schools, home prices, Corner Canyon trails, commute times, and what daily life looks like. An honest local guide."
 excerpt: "Draper sits at the place where the Salt Lake Valley finally runs out of flat ground — a city that has figured out how to be two things at once."
 date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"
@@ -103,3 +103,9 @@ Draper works because it offers a lifestyle equation that's hard to replicate els
 The trade-off is price. You'll pay a premium to be here, particularly on the east side, and the inventory constraints mean you may need patience to find the right fit. Traffic through the Point of the Mountain remains a daily reality for anyone commuting north or south. And the western half of the city, while convenient, doesn't have the same sense of place that the foothills neighborhoods do.
 
 But for families, outdoor enthusiasts, and tech professionals who want to be close to the mountains without giving up suburban infrastructure, Draper delivers. The people who live here tend to stay — and when you spend a Saturday morning on the Potato Hill trail watching the sun light up the entire valley, it's not hard to understand why.
+
+## Dig Deeper Into Draper
+
+- **[Draper real estate market in 2026](/blog/draper-real-estate)** — Median prices by neighborhood, inventory trends, and what buyers and sellers should expect right now.
+- **[How Draper compares to Sandy](/blog/draper-vs-sandy)** — An honest side-by-side on home prices, schools, commute times, and daily life.
+- **[South Jordan vs Draper](/blog/south-jordan-vs-draper)** — A $150K median price gap and two very different ideas about what a suburb should be.

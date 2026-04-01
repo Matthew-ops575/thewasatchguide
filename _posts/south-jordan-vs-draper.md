@@ -1,6 +1,6 @@
 ---
-title: "South Jordan vs Draper — A South Valley Comparison"
-description: "South Jordan vs Draper Utah — an honest comparison of housing, schools, commutes, outdoor access, and lifestyle to help you pick the right south valley city."
+title: "South Jordan vs Draper — Honest Comparison"
+description: "South Jordan vs Draper — housing, schools, commutes, and lifestyle compared honestly to help you pick the right south valley city."
 excerpt: "Two south valley neighbors separated by Bangerter Highway, a $150K gap in median home prices, and fundamentally different ideas about what a suburb should be."
 date: "2026-03-29T06:00:00.000Z"
 type: "blog"

@@ -1,8 +1,20 @@
 import Link from "next/link";
+import { NewsletterForm } from "@/components/NewsletterForm";
 
 export function Footer() {
   return (
     <footer className="bg-slate-brand pt-14 pb-8 px-6 md:px-12">
+      {/* Newsletter */}
+      <div className="max-w-[480px] mb-12">
+        <div className="font-heading text-[22px] font-bold text-white mb-2">
+          Stay in the loop
+        </div>
+        <p className="text-[14px] text-white/40 leading-[1.7] mb-4">
+          New guides, local insights, and honest recommendations &mdash; delivered when we publish.
+        </p>
+        <NewsletterForm id="newsletter" />
+      </div>
+
       <div className="grid grid-cols-1 md:grid-cols-[2.5fr_1fr_1fr_1fr] gap-10 mb-10">
         <div>
           <div className="font-heading text-xl font-bold text-white mb-2">
@@ -91,9 +103,12 @@ export function Footer() {
           >
             Contact
           </Link>
-          <span className="block text-white/30 text-[13px] py-1">
+          <a
+            href="#newsletter"
+            className="block text-white/30 no-underline text-[13px] py-1 hover:text-white transition-colors"
+          >
             Subscribe
-          </span>
+          </a>
         </div>
       </div>
       <div className="border-t border-white/[.06] pt-5 flex flex-col md:flex-row justify-between text-[11px] text-white/20">

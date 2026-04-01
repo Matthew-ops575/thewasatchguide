@@ -3,9 +3,9 @@ import Link from "next/link";
 import { getPostsByType } from "@/lib/api";
 
 export const metadata: Metadata = {
-  title: "Area Guides — Neighborhoods Along the Wasatch Front",
+  title: "Wasatch Front Neighborhood Guides",
   description:
-    "In-depth guides to living in Sandy, Draper, Cottonwood Heights, Holladay, South Jordan, Sugar House, and the Wasatch Back. Schools, home prices, commute times, and local life.",
+    "In-depth guides to Sandy, Draper, Cottonwood Heights, Holladay, South Jordan, Sugar House, and the Wasatch Back. Schools, home prices, and local life.",
   alternates: {
     canonical: "https://thewasatchguide.com/guides",
   },

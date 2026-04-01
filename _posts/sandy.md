@@ -1,6 +1,6 @@
 ---
-title: "Living in Sandy, Utah"
-description: "Everything you need to know about living in Sandy — from canyon access and school districts to real estate, neighborhoods, and the best of south valley life."
+title: "Living in Sandy, Utah — A Local's Guide"
+description: "Living in Sandy, Utah — school districts, home prices, Dimple Dell, restaurants, and what south valley daily life actually looks like."
 excerpt: "If you draw a line straight through the heart of the Salt Lake Valley's south end, it runs right through Sandy."
 date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"
@@ -115,3 +115,10 @@ For buyers comparing Sandy to [Draper](/draper), the honest answer is that Sandy
 ## Is Sandy a Good Place to Live?
 
 Sandy works for people who want genuine centrality without compromising on outdoor access or school quality. If four ski resorts within 25 minutes, TRAX to downtown, a maturing dining scene, and a housing market with real depth sound like the right combination, Sandy delivers — at a price point that the east bench and [Draper](/draper) increasingly can't match. The people who live here didn't settle for Sandy. They chose it because the math works better here than almost anywhere else in the valley.
+
+## Dig Deeper Into Sandy
+
+- **[Sandy real estate market in 2026](/blog/sandy-real-estate)** — Prices by neighborhood, the Granite-Canyons district split, and what the market actually looks like.
+- **[Where locals actually eat in Sandy](/blog/sandy-restaurants)** — The restaurants people keep going back to, from State Street taquerias to neighborhood bistros.
+- **[Best dentists in Sandy](/blog/sandy-dentists)** — Family practices, pediatric specialists, and cosmetic offices that locals actually trust.
+- **[Draper vs Sandy comparison](/blog/draper-vs-sandy)** — The honest trade-offs between these two south valley neighbors.

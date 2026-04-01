@@ -1,6 +1,6 @@
 ---
-title: "Best Orthopedic Surgeons Near Cottonwood Heights, Utah"
-description: "The best orthopedic surgeons and sports medicine clinics near Cottonwood Heights, Utah — from ski injury specialists to joint replacement surgeons, rated by locals who actually use them."
+title: "Best Orthopedic Surgeons Near Cottonwood Heights"
+description: "Best orthopedic surgeons and sports medicine clinics near Cottonwood Heights, Utah — ski injury specialists to joint replacement, rated by locals."
 excerpt: "When you live at the base of four ski resorts and a dozen trailheads, having a good orthopedic surgeon isn't a luxury — it's infrastructure."
 date: "2026-03-29T06:00:00.000Z"
 type: "vertical"

@@ -1,6 +1,6 @@
 ---
-title: "Draper Real Estate — What Buyers and Sellers Should Know in 2026"
-description: "An honest look at Draper's real estate market in 2026 — median prices by neighborhood, inventory trends, what's driving demand, and what buyers and sellers should actually expect."
+title: "Draper Real Estate Market 2026 — Local Guide"
+description: "Draper real estate in 2026 — median prices by neighborhood, inventory trends, demand drivers, and what buyers and sellers should expect."
 excerpt: "Draper is approaching build-out, inventory is tight, and the east-west price gap keeps widening. Here's what the market actually looks like right now."
 date: "2026-03-29T06:00:00.000Z"
 type: "vertical"
@@ -76,4 +76,4 @@ Draper's real estate market is healthy but not easy — and that applies to both
 
 The fundamentals are sound. The population is stable and growing modestly, the school district continues to perform well, the tech corridor shows no signs of contraction, and the outdoor amenities are permanent. For a market-level view of the broader south valley, the comparison between [Draper and Sandy](/blog/draper-vs-sandy) is worth reading — the two cities compete for many of the same buyers, and understanding the trade-offs helps clarify where Draper's value proposition is strongest.
 
-For a deeper look at what daily life in Draper actually looks like — schools, commutes, neighborhoods, and outdoor access — check out our [Draper neighborhood guide](/draper).
+For a deeper look at what daily life in Draper actually looks like — schools, commutes, neighborhoods, and outdoor access — check out our [Draper neighborhood guide](/draper). If you're a first-time buyer, see our guide to the [best neighborhoods for first-time buyers on the Wasatch Front](/blog/best-neighborhoods-first-time-buyers), and for the broader pricing picture, read [where home prices are actually softening in 2026](/blog/where-prices-softening-2026).

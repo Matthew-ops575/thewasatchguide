@@ -1,6 +1,6 @@
 ---
-title: "Cottonwood Heights Real Estate — What Buyers and Sellers Should Know in 2026"
-description: "An honest look at Cottonwood Heights real estate in 2026 — a supply-constrained east bench market where canyon proximity, low turnover, and 1960s-era housing stock define every transaction."
+title: "Cottonwood Heights Real Estate 2026"
+description: "Cottonwood Heights real estate in 2026 — a supply-constrained east bench market where canyon proximity, low turnover, and 1960s housing stock define every deal."
 excerpt: "Cottonwood Heights is largely built out, turnover is among the lowest in the valley, and the canyon premium keeps widening. Here's what the market actually looks like in 2026."
 date: "2026-04-03T06:00:00.000Z"
 type: "vertical"
@@ -76,4 +76,4 @@ The canyon access premium is the defining feature of this market, and it's durab
 
 For buyers weighing east bench options, the comparison between [Cottonwood Heights and Holladay](/blog/cottonwood-heights-vs-holladay) is essential reading — they share enough overlap that understanding the differences helps clarify which community actually fits your priorities. For a broader south valley perspective, the [Draper vs Sandy](/blog/draper-vs-sandy) comparison covers the trade-offs in the cities that compete most directly for relocating families.
 
-For a deeper look at daily life in Cottonwood Heights — neighborhoods, schools, commutes, and canyon access — start with our [Cottonwood Heights neighborhood guide](/cottonwood-heights).
+For a deeper look at daily life in Cottonwood Heights — neighborhoods, schools, commutes, and canyon access — start with our [Cottonwood Heights neighborhood guide](/cottonwood-heights). First-time buyers should also see [where to realistically get in along the Wasatch Front](/blog/best-neighborhoods-first-time-buyers), and for the broader market picture, read [where prices are softening in 2026](/blog/where-prices-softening-2026).

@@ -4,9 +4,9 @@ import { getAllPosts } from "@/lib/api";
 import { NewsletterForm } from "@/components/NewsletterForm";
 
 export const metadata: Metadata = {
-  title: "Blog",
+  title: "Wasatch Front Blog — Local News & Guides",
   description:
-    "Local insights, neighborhood comparisons, dining guides, and market updates from along the Wasatch Front.",
+    "Neighborhood comparisons, real estate market updates, restaurant guides, and local insights for Salt Lake City suburbs. Updated weekly.",
 };
 
 const categoryColors: Record<string, string> = {

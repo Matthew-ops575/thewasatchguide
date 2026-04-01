@@ -1,6 +1,6 @@
 ---
-title: "Living in the Wasatch Back — Park City, Heber Valley & Midway"
-description: "A local's guide to living in the Wasatch Back — Park City, Heber Valley, and Midway. Real talk on home prices, schools, commutes, and mountain-town trade-offs."
+title: "Living in Park City & Heber Valley, Utah"
+description: "Living in Park City, Heber Valley, and Midway — home prices, schools, commutes, and honest mountain-town trade-offs on the Wasatch Back."
 excerpt: "The Wasatch Back is where Utah's mountain lifestyle gets real — three distinct communities on the other side of the range, each with its own version of what that means."
 date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"

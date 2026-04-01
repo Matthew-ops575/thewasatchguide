@@ -97,7 +97,7 @@ export default async function BlogPostPage({ params }: PageProps) {
       {/* Hero */}
       <section className="relative min-h-[40vh] flex items-end overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-[#2A3540] via-ridge to-slate-brand" />
-        <div className="relative z-2 px-6 md:px-12 max-w-[700px] pt-24 md:pt-0 pb-12">
+        <div className="relative z-2 px-6 md:px-12 max-w-[700px] pt-28 md:pt-32 pb-12">
           <div className="text-[12px] text-white/35 mb-4">
             <Link href="/" className="text-sage no-underline hover:text-sage/80">
               Home

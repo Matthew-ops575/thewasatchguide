@@ -7,11 +7,11 @@ import { Footer } from "@/components/Footer";
 export const metadata: Metadata = {
   metadataBase: new URL("https://thewasatchguide.com"),
   title: {
-    default: "The Wasatch Guide — Your Insider's Guide to Life Along the Wasatch Front",
+    default: "Wasatch Front Living Guide | The Wasatch Guide",
     template: "%s | The Wasatch Guide",
   },
   description:
-    "In-depth guides to the communities, restaurants, services, and outdoor life that make the Salt Lake metro unlike anywhere else.",
+    "Local guides to Salt Lake City suburbs — Sandy, Draper, Cottonwood Heights, and more. Schools, home prices, restaurants, and honest neighborhood advice.",
   openGraph: {
     type: "website",
     locale: "en_US",

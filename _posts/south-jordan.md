@@ -1,6 +1,6 @@
 ---
 title: "Living in South Jordan & Daybreak, Utah"
-description: "A local's guide to living in South Jordan and Daybreak, Utah — schools, home prices, Daybreak community life, commute options, and what daily life really looks like."
+description: "Living in South Jordan and Daybreak — schools, home prices, TRAX access, Daybreak community life, and honest local insights."
 excerpt: "South Jordan is really two stories — a sprawling south valley suburb with solid bones, and Daybreak, the master-planned experiment that rewrote the rules for what Utah neighborhoods could be."
 date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"
@@ -126,3 +126,8 @@ South Jordan works for people who want solid suburban infrastructure on the west
 The trade-offs are real. You're 40-plus minutes from Big and Little Cottonwood Canyon ski resorts — not a dealbreaker, but a meaningful difference if you're coming from [Sandy](/sandy) or [Draper](/draper). The west side of the valley still carries a perception gap among some Salt Lake residents, fair or not. I-15 commutes north are congested during peak hours, and Bangerter helps but doesn't eliminate the friction.
 
 But the schools are strong, the housing is more accessible than the east bench, the TRAX connection is a genuine asset, and Daybreak — whatever you think of master-planned communities as a concept — has built something that actually works. The people who move here tend to settle in, and when the Bees are playing on a summer evening and the Oquirrh Mountains are catching the last light behind the ballpark, it's hard to argue with the quality of life.
+
+## Dig Deeper Into South Jordan
+
+- **[South Jordan real estate market in 2026](/blog/south-jordan-real-estate)** — Daybreak vs traditional neighborhoods, pricing by area, and what buyers should expect.
+- **[South Jordan vs Draper comparison](/blog/south-jordan-vs-draper)** — Two south valley neighbors with fundamentally different ideas about suburban life.
