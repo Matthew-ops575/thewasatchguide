@@ -18,7 +18,7 @@ const guideExtras: Record<
   draper: {
     tag: "Salt Lake County",
     gradient: "from-[#3D5A4C] to-[#2A3540]",
-    coverImage: "/images/living-in-draper.png",
+    coverImage: "/images/living-in-draper.jpg",
   },
   sandy: {
     tag: "South Valley",

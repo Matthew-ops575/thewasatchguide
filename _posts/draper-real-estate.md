@@ -1,5 +1,5 @@
 ---
-title: "Draper Real Estate Market 2026 — Local Guide"
+title: "Draper Real Estate Market 2026"
 description: "Draper real estate in 2026 — median prices by neighborhood, inventory trends, demand drivers, and what buyers and sellers should expect."
 excerpt: "Draper is approaching build-out, inventory is tight, and the east-west price gap keeps widening. Here's what the market actually looks like right now."
 date: "2026-03-29T06:00:00.000Z"

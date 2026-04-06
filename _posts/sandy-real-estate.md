@@ -1,5 +1,5 @@
 ---
-title: "Sandy Real Estate Market 2026 — Local Guide"
+title: "Sandy Real Estate Market 2026"
 description: "Sandy real estate in 2026 — prices by neighborhood, the Granite-Canyons district split, inventory trends, and what buyers and sellers should expect."
 excerpt: "Sandy's market has something most south valley cities don't — real depth. Enough inventory to compare, enough variation to find your price point, and two school districts that create a pricing fault line most buyers don't see coming."
 date: "2026-04-01T06:00:00.000Z"

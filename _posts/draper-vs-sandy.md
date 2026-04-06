@@ -1,5 +1,5 @@
 ---
-title: "Draper vs Sandy, Utah — Honest Comparison"
+title: "Draper vs Sandy, Utah"
 description: "Draper vs Sandy — home prices, schools, commute times, outdoor access, and daily life compared side by side. An honest south valley guide."
 excerpt: "Two south valley neighbors, one honest comparison — here's what actually separates Draper and Sandy."
 date: "2026-03-29T06:00:00.000Z"

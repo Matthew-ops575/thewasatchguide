@@ -1,6 +1,6 @@
 ---
 title: "Cottonwood Heights Real Estate 2026"
-description: "Cottonwood Heights real estate in 2026 — a supply-constrained east bench market where canyon proximity, low turnover, and 1960s housing stock define every deal."
+description: "Cottonwood Heights real estate in 2026 — a supply-constrained east bench market where canyon proximity and low turnover define every deal."
 excerpt: "Cottonwood Heights is largely built out, turnover is among the lowest in the valley, and the canyon premium keeps widening. Here's what the market actually looks like in 2026."
 date: "2026-04-03T06:00:00.000Z"
 type: "vertical"

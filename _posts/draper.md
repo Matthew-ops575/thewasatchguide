@@ -1,16 +1,16 @@
 ---
-title: "Living in Draper, Utah — A Local's Guide"
+title: "Living in Draper, Utah"
 description: "Living in Draper, Utah — schools, home prices, Corner Canyon trails, commute times, and what daily life looks like. An honest local guide."
 excerpt: "Draper sits at the place where the Salt Lake Valley finally runs out of flat ground — a city that has figured out how to be two things at once."
 date: "2026-03-29T06:00:00.000Z"
 type: "neighborhood-guide"
 area: "draper"
 tags: ["draper", "south valley", "neighborhoods", "relocation"]
-coverImage: "/images/living-in-draper.png"
+coverImage: "/images/living-in-draper.jpg"
 published: true
 ---
 
-![Draper, Utah at golden hour — neighborhoods meet the sagebrush foothills of Corner Canyon with Lone Peak and the Wasatch Range rising behind](/images/living-in-draper.png)
+![Draper, Utah at golden hour — neighborhoods meet the sagebrush foothills of Corner Canyon with Lone Peak and the Wasatch Range rising behind](/images/living-in-draper.jpg)
 
 ## At a Glance
 

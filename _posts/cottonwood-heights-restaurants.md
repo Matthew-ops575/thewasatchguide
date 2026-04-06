@@ -1,5 +1,5 @@
 ---
-title: "Where Locals Actually Eat in Cottonwood Heights, Utah"
+title: "Best Restaurants in Cottonwood Heights"
 description: "The best restaurants in Cottonwood Heights, Utah — from canyon-mouth institutions to Persian kitchens and a lodge with 70-year-old sourdough starter."
 excerpt: "Cottonwood Heights doesn't have a restaurant row. What it has is a collection of fiercely loyal neighborhood spots and the best canyon-to-table dining on the Wasatch Front."
 date: "2026-04-24T06:00:00.000Z"

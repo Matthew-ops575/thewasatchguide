@@ -1,5 +1,5 @@
 ---
-title: "Living in Park City & Heber Valley, Utah"
+title: "Living in Park City & Heber Valley"
 description: "Living in Park City, Heber Valley, and Midway — home prices, schools, commutes, and honest mountain-town trade-offs on the Wasatch Back."
 excerpt: "The Wasatch Back is where Utah's mountain lifestyle gets real — three distinct communities on the other side of the range, each with its own version of what that means."
 date: "2026-03-29T06:00:00.000Z"

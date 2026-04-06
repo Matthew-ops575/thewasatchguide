@@ -1,5 +1,5 @@
 ---
-title: "Where Utah Home Prices Are Softening in 2026"
+title: "Where Utah Home Prices Are Softening"
 description: "Wasatch Front home prices look flat metro-wide, but some neighborhoods are softening 4-8% while others hold firm. Here's the street-level picture."
 excerpt: "The headline says prices are flat. The reality is more useful than that — some neighborhoods have given back 4-8% from their peaks while others haven't budged. The pattern tells you where the market is actually heading."
 date: "2026-04-14T06:00:00.000Z"

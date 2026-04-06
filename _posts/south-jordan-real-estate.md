@@ -1,5 +1,5 @@
 ---
-title: "South Jordan Real Estate 2026 — Daybreak & Beyond"
+title: "South Jordan Real Estate Market 2026"
 description: "South Jordan real estate in 2026 — Daybreak vs traditional neighborhoods, pricing by area, new construction, and what buyers should expect."
 excerpt: "South Jordan is really two markets wearing one city name. Daybreak and traditional South Jordan attract different buyers, price differently, and behave differently. Here's what that means if you're buying or selling in 2026."
 date: "2026-04-07T06:00:00.000Z"

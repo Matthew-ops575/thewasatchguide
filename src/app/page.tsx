@@ -12,7 +12,7 @@ const areaGuides = [
     desc: "Mountain access, Silicon Slopes tech corridor, and Utah's most sought-after school district.",
     read: "12 min read",
     gradient: "from-[#3D5A4C] to-[#2A3540]",
-    coverImage: "/images/living-in-draper.png",
+    coverImage: "/images/living-in-draper.jpg",
     featured: true,
   },
   {

@@ -1,5 +1,5 @@
 ---
-title: "Cottonwood Heights vs Holladay — An East Bench Comparison"
+title: "Cottonwood Heights vs Holladay"
 description: "Cottonwood Heights vs Holladay Utah — an honest comparison of housing, schools, canyon access, and daily life on the Salt Lake Valley's east bench."
 excerpt: "Two east bench cities separated by a few blocks and a surprisingly different set of priorities."
 date: "2026-03-29T06:00:00.000Z"

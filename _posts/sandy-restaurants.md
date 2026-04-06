@@ -1,5 +1,5 @@
 ---
-title: "Where Locals Actually Eat in Sandy, Utah"
+title: "Best Restaurants in Sandy, Utah"
 description: "The best restaurants in Sandy, Utah that locals keep going back to — from State Street taquerias to neighborhood bistros and a bakery worth driving for."
 excerpt: "Sandy's dining scene has quietly become one of the most interesting in the south valley, and almost none of it shows up on the tourist lists."
 date: "2026-03-29T06:00:00.000Z"

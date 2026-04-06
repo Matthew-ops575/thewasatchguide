@@ -1,5 +1,5 @@
 ---
-title: "Sugar House vs Holladay — Which East Side Neighborhood Fits?"
+title: "Sugar House vs Holladay, Utah"
 description: "Sugar House vs Holladay Utah — an honest comparison of walkability, housing, schools, dining, and daily life on Salt Lake's east side."
 excerpt: "One is Salt Lake's most walkable neighborhood. The other is its quietest east bench secret. They're closer than you think and further apart than the map suggests."
 date: "2026-05-01T06:00:00.000Z"

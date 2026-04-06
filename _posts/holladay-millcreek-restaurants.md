@@ -1,6 +1,6 @@
 ---
-title: "Where Locals Actually Eat in Holladay & Millcreek, Utah"
-description: "The best restaurants in Holladay and Millcreek, Utah — from Holladay Village fine dining and Millcreek's 3300 South corridor to a Thai-fusion brunch you can't find anywhere else."
+title: "Holladay & Millcreek Restaurant Guide"
+description: "Best restaurants in Holladay and Millcreek, Utah — Holladay Village fine dining, Millcreek's 3300 South corridor, and hidden local favorites."
 excerpt: "Two east bench cities, two restaurant corridors, and a dining scene that punches well above its suburban weight class."
 date: "2026-04-28T06:00:00.000Z"
 type: "blog"

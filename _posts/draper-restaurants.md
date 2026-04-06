@@ -1,6 +1,6 @@
 ---
-title: "Where Locals Actually Eat in Draper, Utah"
-description: "The best restaurants in Draper, Utah — from wood-fired kitchens and Texas BBQ to a gourmet market in a 100-year-old building. Where locals eat along 12300 South."
+title: "Best Restaurants in Draper, Utah"
+description: "Best restaurants in Draper, Utah — wood-fired kitchens, Texas BBQ, and a gourmet market in a 100-year-old building along 12300 South."
 excerpt: "Draper's dining scene runs deeper than the chain restaurants along I-15, and almost all of it lives on one road."
 date: "2026-04-21T06:00:00.000Z"
 type: "blog"

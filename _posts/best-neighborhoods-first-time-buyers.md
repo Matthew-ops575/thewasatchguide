@@ -1,5 +1,5 @@
 ---
-title: "Best Neighborhoods for First-Time Buyers (2026)"
+title: "First-Time Buyer Neighborhoods (2026)"
 description: "Where first-time buyers can realistically get in along the Wasatch Front in 2026 — specific neighborhoods, honest price ranges, and real trade-offs."
 excerpt: "The Wasatch Front median is north of $550K. Here's where first-time buyers are actually getting in — and what they're giving up to do it."
 date: "2026-04-10T06:00:00.000Z"
